@@ -8,6 +8,12 @@ Currently interested in Red Teaming and Malware Development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/garrettpinto/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **garrettpinto/garrettpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,3 @@
-# I'm Garrett 👋
-
 ## ***Threat Hunter*** <br>
 
 - :seedling: Red Teaming and Malware Development

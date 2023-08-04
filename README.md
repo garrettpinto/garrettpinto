@@ -1,5 +1,8 @@
-##### Hi there 👋
-
+# I'm Garrett 👋
+---
+## Threat Hunter
+Currently interested in Red Teaming and Malware Development.
+### :hammer_and_wrench: Languages:
 <!--
 **garrettpinto/garrettpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

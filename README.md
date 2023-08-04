@@ -1,6 +1,6 @@
 # I'm Garrett 👋
----
-## Threat Hunter
+
+## ***Threat Hunter*** <br>
 Currently interested in Red Teaming and Malware Development.
 ### :hammer_and_wrench: Languages:
 <div>
@@ -9,11 +9,18 @@ Currently interested in Red Teaming and Malware Development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
+📫 How to reach me:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/garrettpinto/">
+     <p align="center" width="100%">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </p>
   </a>
 </div>
+
+
 <!--
 **garrettpinto/garrettpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## ***Threat Hunter*** <br>
 
-- :seedling: Red Teaming and Malware Development
+- :seedling: Red Teaming
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/garrettpinto/">
